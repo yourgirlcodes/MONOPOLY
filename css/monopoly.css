@@ -214,11 +214,21 @@ body{
     width: 25%;
     height: 25%;
     margin: 4%;
-    background-color: black;
+    background-color: #364c9c;
     border-radius: 100px;
     opacity:0;
 }
 
 .dice-dot.right{
     margin-left:36%;
+}
+
+.player.jailedFace{
+    background-image: url(../images/sad.png);
+    background-size: contain;
+}
+
+.player.onHomeProperty{
+    background-image: url(../images/happy.png);
+    background-size:contain;
 }
