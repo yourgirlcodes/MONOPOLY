@@ -199,6 +199,14 @@ body{
     background-color: #d061cd;
 }
 
+.player#player5 , .player5.cell .content{
+    background-color: lightskyblue;
+}
+
+.player#player6 , .player6.cell .content{
+    background-color: lightgreen;
+}
+
 .player.current-turn{
     background-image:url(../images/crown.png);
     background-size:contain;
