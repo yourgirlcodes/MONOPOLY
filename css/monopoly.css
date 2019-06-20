@@ -228,7 +228,7 @@ body{
     background-size: contain;
 }
 
-.player.onHomeProperty{
+.player.homeProperty{
     background-image: url(../images/happy.png);
     background-size:contain;
 }
