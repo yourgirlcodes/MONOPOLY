@@ -74,7 +74,7 @@ Monopoly.rollDice = function () {
         Monopoly.initDice();
         console.log("double")
         console.log(Monopoly.doubleCounter)
-        var currentPlayer = Monopoly.getCurrentPlayer();
+        // var currentPlayer = Monopoly.getCurrentPlayer();
         return;
     }
     var currentPlayer = Monopoly.getCurrentPlayer();
