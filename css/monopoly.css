@@ -231,7 +231,7 @@ body{
     margin-left:36%;
 }
 
-.player.jailedFace{
+.player.jailed{
     background-image: url(../images/sad.png);
     background-size: contain;
 }
